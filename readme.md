@@ -1,1 +1,1 @@
-repo
+El repositorio contiene el código que utiliza tecnologías web estándar como HTML, CSS y JavaScript. El archivo index.html es la página principal del sitio, mientras que la carpeta "estilos" contiene el archivo styless.css con los estilos aplicados. Además, se utilizan imágenes y fuentes externas de Google Fonts. El código sigue una estructura común de encabezado, banner, contenido, contenido adicional, nuestro equipo y pie de página.
